@@ -5,7 +5,9 @@
 Requirements:
 - Installed version >= Python3.12
 
-  Modules(pip):
+  Modules to install by pip:
   - PyAutoGUI(if you have some issue, install Pillow module too)
-  - Webbrowser
+
+  <p>Obs: There are some native modules in the project, so... you don't need to install it</p>
+  
 
