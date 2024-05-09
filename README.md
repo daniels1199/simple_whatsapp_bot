@@ -1,6 +1,6 @@
-<b>A Simple Chatbot Messager to Whatsapp</b>
+<h1><b>A Simple Chatbot Messager to Whatsapp</b></h1>h1>
 
-Function: Send automatic message(s) to any Whatsapp phone number
+<b>Function</b>: Send automatic message(s) to any Whatsapp phone number
 
 Requirements:
 - Installed version >= Python3.12
