@@ -1,4 +1,4 @@
-<h1><b>A Simple Chatbot Messager to Whatsapp</b></h1>h1>
+<h1><b>A Simple Chatbot Messager to Whatsapp</b></h1>
 
 <b>Function</b>: Send automatic message(s) to any Whatsapp phone number
 
